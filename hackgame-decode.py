@@ -1,7 +1,7 @@
 # coding:gbk
 __author__ = '1'
 decode_str = '1c10121a181e121a0f1016110b4d4d4d'
-output=''
+output = ''
 for start in range(0, len(decode_str), 2):
     hex_num = decode_str[start:start+2]
     hex_num = int(hex_num, 16)  # 16进制转10进制

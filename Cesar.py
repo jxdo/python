@@ -1,4 +1,4 @@
-#coding:gbk
+# coding:gbk
 # import string
 
 __author__ = 'Administrator'
